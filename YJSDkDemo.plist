@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.46.3:8005/app/ios/YJSDkDemo.ipa</string>
+					<string>http://192.168.46.3:8015/app/ios/YJSDkDemo.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
