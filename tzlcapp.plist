@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.46.3:8015/app/ios/YJPayPurse.ipa</string>
+					<string>http://acooly.gicp.net:8080/app/tzlcapp.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yiji.YJPayPurse</string>
+				<string>com.zq.tzlcapp</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>易极付钱包</string>
+				<string>投资</string>
 			</dict>
 		</dict>
 	</array>
