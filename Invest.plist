@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.46.3:8015/app/ios/Register.ipa</string>
+					<string>http://image.yiji.com/upload/e8//uploadfile/images/2014-10/09/110_893450935.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.46.3:8015/app/ios/icon.png</string>
+					<string>http://www.touziwuyou.com/styles/images/appimage/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.46.3:8015/app/ios/icon@2x.png</string>
+					<string>http://www.touziwuyou.com/styles/images/appimage/Icon@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
