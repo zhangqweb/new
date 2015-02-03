@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yiji.YJFRecharge</string>
+				<string>com.yiji.EnterpriseFortis</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>易极付</string>
+				<string>企付通</string>
 			</dict>
 		</dict>
 	</array>
